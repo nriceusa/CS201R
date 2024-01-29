@@ -126,3 +126,6 @@ venv2/
 *.xml
 *.iml
 .DS_Store
+
+# MacOS
+.DS_Store
